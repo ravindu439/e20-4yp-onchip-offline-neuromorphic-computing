@@ -30,7 +30,9 @@
         {
             "type": "youtube",
             "title": "",
-            "url": "#"
+            "url": "#",
+            "image": "cover_page.jpg",
+            "thumbnail": "thumbnail.jpg"
         }
     ],
     "tags": ["Final Year Projects", "Neuromorphic Computing", "FPGA", "Spiking Neural Networks", "RISC-V", "On-Chip Learning"]
