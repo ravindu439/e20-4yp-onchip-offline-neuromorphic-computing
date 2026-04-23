@@ -3,7 +3,7 @@ layout: home
 permalink: index.html
 
 repository-name: e20-4yp-onchip-offline-neuromorphic-computing
-title: On-Chip Offline Neuromorphic Computing
+title: On-Chip Offline Learning in Neuromorphic SoC
 ---
 
 # On-Chip Offline Neuromorphic Computing
